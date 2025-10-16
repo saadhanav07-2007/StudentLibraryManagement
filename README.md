@@ -17,3 +17,10 @@ Tools and Technologies Used
 • AWT (Abstract Window Toolkit): For window management.
 • Eclipse / IntelliJ IDEA: IDE used for design and development.
 • Java Collections Framework: To manage and store book data efficiently.
+
+# How to Run
+In IntelliJ, run the main() function
+
+In Command Line, 
+
+`java StudentLibraryManagementSystem`
